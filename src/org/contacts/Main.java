@@ -1,7 +1,7 @@
-package org.phonebook;
+package org.contacts;
 
-import org.phonebook.cli.CommandLineMenuInvoker;
-import org.phonebook.contact.ContactsManager;
+import org.contacts.cli.CommandLineMenuInvoker;
+import org.contacts.contact.ContactsManager;
 
 import java.util.Scanner;
 

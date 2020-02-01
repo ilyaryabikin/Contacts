@@ -1,4 +1,4 @@
-package org.phonebook.cli;
+package org.contacts.cli;
 
 enum CommandLineMenuState {
     MENU("[menu] "),

@@ -1,6 +1,6 @@
-package org.phonebook.cli;
+package org.contacts.cli;
 
-import org.phonebook.exception.IllegalFieldNameException;
+import org.contacts.exception.IllegalFieldNameException;
 
 class RecordMenu extends CommandLineMenu {
 

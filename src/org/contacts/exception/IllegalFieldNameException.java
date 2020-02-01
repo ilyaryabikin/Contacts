@@ -1,4 +1,4 @@
-package org.phonebook.exception;
+package org.contacts.exception;
 
 public class IllegalFieldNameException extends Exception {
 

@@ -1,4 +1,4 @@
-package org.phonebook.cli;
+package org.contacts.cli;
 
 class SearchMenu extends CommandLineMenu {
 

@@ -1,7 +1,7 @@
-package org.phonebook.cli;
+package org.contacts.cli;
 
-import org.phonebook.contact.OrganizationContact;
-import org.phonebook.contact.PersonContact;
+import org.contacts.contact.OrganizationContact;
+import org.contacts.contact.PersonContact;
 
 class AddRecordMenu extends CommandLineMenu {
 

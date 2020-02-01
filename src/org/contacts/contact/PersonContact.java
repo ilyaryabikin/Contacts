@@ -1,6 +1,6 @@
-package org.phonebook.contact;
+package org.contacts.contact;
 
-import org.phonebook.exception.IllegalFieldNameException;
+import org.contacts.exception.IllegalFieldNameException;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeParseException;

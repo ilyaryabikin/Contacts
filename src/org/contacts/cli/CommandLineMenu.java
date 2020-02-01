@@ -1,7 +1,7 @@
-package org.phonebook.cli;
+package org.contacts.cli;
 
-import org.phonebook.contact.Contact;
-import org.phonebook.contact.ContactsManager;
+import org.contacts.contact.Contact;
+import org.contacts.contact.ContactsManager;
 
 import java.util.List;
 import java.util.Scanner;

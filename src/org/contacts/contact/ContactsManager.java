@@ -1,6 +1,6 @@
-package org.phonebook.contact;
+package org.contacts.contact;
 
-import org.phonebook.util.SerializationUtils;
+import org.contacts.util.SerializationUtils;
 
 import java.io.IOException;
 import java.util.ArrayList;
